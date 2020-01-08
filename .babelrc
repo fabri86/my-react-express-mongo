@@ -1,0 +1,11 @@
+// it defines which packages babel will use to transpile ES6 features and JSX
+{
+  "presets": [
+    ["@babel/preset-env",{
+      "targets":{
+        "node":"current"
+      }
+    }],
+    "@babel/preset-react"
+  ]
+}
