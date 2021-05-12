@@ -70,7 +70,7 @@
     "highground": "1.0.9",
     "mongodb": "3.1.10",
     "nodemon": "2.0.2",
-    "postcss": "7.0.26",
+    "postcss": "8.2.10",
     "postcss-cssnext": "3.1.0",
     "style-loader": "1.1.2",
     "webpack-cli": "3.3.10",
